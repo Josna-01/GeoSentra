@@ -6,12 +6,16 @@ from app.config import settings
 import datetime
 
 # Path to service account JSON
-CERT_PATH = "d:/Ancilla/geosentra-5eae8-firebase-adminsdk-fbsvc-2765aca024.json"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+CERT_PATH = os.path.join(BASE_DIR, "geosentra-5eae8-firebase-adminsdk-fbsvc-2765aca024.json")
 
 class LocalDB:
     """A simplistic JSON-based Mock Firestore for local development."""
-    def __init__(self, storage_file="local_db.json"):
-        self.storage_file = storage_file
+    def __init__(self, storage_file=None):
+        if storage_file is None:
+            self.storage_file = os.path.join(BASE_DIR, "local_db.json")
+        else:
+            self.storage_file = storage_file
         self.data = self._load_data()
 
     def _load_data(self):

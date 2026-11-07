@@ -7,7 +7,7 @@ from sklearn.base import BaseEstimator
 # Suppress warnings during the load/save process
 warnings.filterwarnings("ignore")
 
-MODEL_DIR = "d:/Ancilla/Backend/Model"
+MODEL_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "Model")
 
 files = [
     "Event_Type_Encoder.pkl",

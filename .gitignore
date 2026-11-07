@@ -1,4 +1,4 @@
-# Root .gitignore for Ancilla Project
+# Root .gitignore for GeoSentra Project
 
 # Environment variables
 .env
