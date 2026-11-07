@@ -1,0 +1,104 @@
+[
+    {
+        "name": "China",
+        "iso_code": "cn",
+        "flag_url": "https://flagcdn.com/w320/cn.png",
+        "main_exports": "Electronics, Machinery, Textiles, Rare Earth Metals"
+    },
+    {
+        "name": "United States",
+        "iso_code": "us",
+        "flag_url": "https://flagcdn.com/w320/us.png",
+        "main_exports": "Semiconductors, Aerospace, Pharmaceuticals, Software"
+    },
+    {
+        "name": "Germany",
+        "iso_code": "de",
+        "flag_url": "https://flagcdn.com/w320/de.png",
+        "main_exports": "Automotive, Machinery, Chemicals, Medical Devices"
+    },
+    {
+        "name": "Japan",
+        "iso_code": "jp",
+        "flag_url": "https://flagcdn.com/w320/jp.png",
+        "main_exports": "Vehicles, Robotics, Advanced Materials, Electronics"
+    },
+    {
+        "name": "India",
+        "iso_code": "in",
+        "flag_url": "https://flagcdn.com/w320/in.png",
+        "main_exports": "Pharmaceuticals, Textiles, IT Services, Agriculture"
+    },
+    {
+        "name": "Brazil",
+        "iso_code": "br",
+        "flag_url": "https://flagcdn.com/w320/br.png",
+        "main_exports": "Soybeans, Iron Ore, Oil, Coffee"
+    },
+    {
+        "name": "Vietnam",
+        "iso_code": "vn",
+        "flag_url": "https://flagcdn.com/w320/vn.png",
+        "main_exports": "Electronics, Footwear, Textiles, Coffee"
+    },
+    {
+        "name": "Taiwan",
+        "iso_code": "tw",
+        "flag_url": "https://flagcdn.com/w320/tw.png",
+        "main_exports": "Semiconductors, Electronics, Petrochemicals"
+    },
+    {
+        "name": "South Korea",
+        "iso_code": "kr",
+        "flag_url": "https://flagcdn.com/w320/kr.png",
+        "main_exports": "Semiconductors, Ships, Cars, Displays"
+    },
+    {
+        "name": "Mexico",
+        "iso_code": "mx",
+        "flag_url": "https://flagcdn.com/w320/mx.png",
+        "main_exports": "Automotive, Electronics, Oil, Produce"
+    },
+    {
+        "name": "Netherlands",
+        "iso_code": "nl",
+        "flag_url": "https://flagcdn.com/w320/nl.png",
+        "main_exports": "Machinery, Chemicals, Food Processing, Tech"
+    },
+    {
+        "name": "Singapore",
+        "iso_code": "sg",
+        "flag_url": "https://flagcdn.com/w320/sg.png",
+        "main_exports": "Electronics, Refined Petroleum, Chemicals"
+    },
+    {
+        "name": "United Kingdom",
+        "iso_code": "gb",
+        "flag_url": "https://flagcdn.com/w320/gb.png",
+        "main_exports": "Machinery, Cars, Pharmacy, Financial Services"
+    },
+    {
+        "name": "France",
+        "iso_code": "fr",
+        "flag_url": "https://flagcdn.com/w320/fr.png",
+        "main_exports": "Aerospace, Luxury Goods, Wine, Pharmaceuticals"
+    },
+    {
+        "name": "Italy",
+        "iso_code": "it",
+        "flag_url": "https://flagcdn.com/w320/it.png",
+        "main_exports": "Machinery, Fashion, Vehicles, Pharmaceuticals"
+    },
+    {
+        "name": "Australia",
+        "iso_code": "au",
+        "flag_url": "https://flagcdn.com/w320/au.png",
+        "main_exports": "Iron Ore, Coal, Gold, Education"
+    },
+    {
+        "name": "Canada",
+        "iso_code": "ca",
+        "flag_url": "https://flagcdn.com/w320/ca.png",
+        "main_exports": "Energy, Automotive, Minerals, Wood"
+    }
+]

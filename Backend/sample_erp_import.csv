@@ -1,0 +1,11 @@
+supplier_id,supplier_name,country,category,lead_time_days,contract_value,risk_tier,contact_email
+SUP001,Acme Manufacturing,Germany,Electronics,30,1500000,Low,procurement@acme.de
+SUP002,Global Tech Solutions,China,Electronics,45,2000000,Medium,sourcing@globaltech.cn
+SUP003,Euro Components Ltd,Netherlands,Components,25,800000,Low,orders@eurocomp.nl
+SUP004,Asia Pacific Supplies,Singapore,Raw Materials,35,1200000,Low,contact@apacsupp.sg
+SUP005,Nordic Industries,Sweden,Machinery,40,950000,Low,sales@nordic.se
+SUP006,South American Traders,Brazil,Raw Materials,60,600000,High,info@satraders.br
+SUP007,Middle East Manufacturing,United Arab Emirates,Components,50,1100000,Medium,procurement@memfg.ae
+SUP008,UK Precision Parts,United Kingdom,Components,28,750000,Low,orders@ukprecision.co.uk
+SUP009,Canadian Resources,Canada,Raw Materials,42,890000,Low,supply@canresources.ca
+SUP010,Indian Tech Hub,India,Electronics,55,1300000,Medium,contact@indiatech.in

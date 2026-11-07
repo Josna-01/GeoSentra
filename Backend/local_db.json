@@ -1,0 +1,5376 @@
+{
+  "alerts": {
+    "doc_1768215439049": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "US-Venezuela conflict, FII flows and Bharat Coking Coal IPO among 10 factors that\u2019ll steer D-Street ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:57:19.049443",
+      "id": "doc_1768215439049"
+    },
+    "doc_1768215439124": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The best video essays of 2025 | Sight and Sound Now in its ninth year, our annual poll showcases 255...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:57:19.124887",
+      "id": "doc_1768215439124"
+    },
+    "doc_1768215466387": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "US-Venezuela conflict, FII flows and Bharat Coking Coal IPO among 10 factors that\u2019ll steer D-Street ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:57:46.387223",
+      "id": "doc_1768215466387"
+    },
+    "doc_1768215466550": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The best video essays of 2025 | Sight and Sound Now in its ninth year, our annual poll showcases 255...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:57:46.550775"
+    },
+    "doc_1768215502099": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "US-Venezuela conflict, FII flows and Bharat Coking Coal IPO among 10 factors that\u2019ll steer D-Street ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:58:22.099710",
+      "id": "doc_1768215502099"
+    },
+    "doc_1768215502183": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The best video essays of 2025 | Sight and Sound Now in its ninth year, our annual poll showcases 255...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:58:22.183499"
+    },
+    "doc_1768215503676": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "US-Venezuela conflict, FII flows and Bharat Coking Coal IPO among 10 factors that\u2019ll steer D-Street ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:58:23.676097",
+      "id": "doc_1768215503676"
+    },
+    "doc_1768215503844": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The best video essays of 2025 | Sight and Sound Now in its ninth year, our annual poll showcases 255...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T10:58:23.844643"
+    },
+    "doc_1768215706045": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:01:46.045841",
+      "id": "doc_1768215706045"
+    },
+    "doc_1768215706119": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:46.119867",
+      "id": "doc_1768215706119"
+    },
+    "doc_1768215706301": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:46.301171",
+      "id": "doc_1768215706301"
+    },
+    "doc_1768215706404": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:46.404208",
+      "id": "doc_1768215706404"
+    },
+    "doc_1768215706563": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:46.563513"
+    },
+    "doc_1768215708194": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:01:48.194730",
+      "id": "doc_1768215708194"
+    },
+    "doc_1768215708368": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:48.368224",
+      "id": "doc_1768215708368"
+    },
+    "doc_1768215708468": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:48.468885",
+      "id": "doc_1768215708468"
+    },
+    "doc_1768215708645": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:48.645536",
+      "id": "doc_1768215708645"
+    },
+    "doc_1768215708734": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:01:48.734454"
+    },
+    "doc_1768215894118": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:04:54.118399",
+      "id": "doc_1768215894118"
+    },
+    "doc_1768215894278": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:04:54.275589",
+      "id": "doc_1768215894278"
+    },
+    "doc_1768215894392": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:04:54.392757",
+      "id": "doc_1768215894392"
+    },
+    "doc_1768215894538": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:04:54.538685",
+      "id": "doc_1768215894538"
+    },
+    "doc_1768215894678": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:04:54.678057"
+    },
+    "doc_1768216578681": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:16:18.681709",
+      "id": "doc_1768216578681"
+    },
+    "doc_1768216578765": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:16:18.765224",
+      "id": "doc_1768216578765"
+    },
+    "doc_1768216578942": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:16:18.942591",
+      "id": "doc_1768216578942"
+    },
+    "doc_1768216579021": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:16:19.021502",
+      "id": "doc_1768216579021"
+    },
+    "doc_1768216579199": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:16:19.199924"
+    },
+    "doc_1768216890599": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:21:30.599618",
+      "id": "doc_1768216890599"
+    },
+    "doc_1768216890675": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:21:30.675821",
+      "id": "doc_1768216890675"
+    },
+    "doc_1768216890862": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:21:30.862061",
+      "id": "doc_1768216890862"
+    },
+    "doc_1768216890944": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:21:30.944963",
+      "id": "doc_1768216890944"
+    },
+    "doc_1768216891124": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:21:31.124526"
+    },
+    "doc_1768217579618": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:32:59.618550",
+      "id": "doc_1768217579618"
+    },
+    "doc_1768217579708": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:32:59.708367",
+      "id": "doc_1768217579708"
+    },
+    "doc_1768217579883": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:32:59.883922",
+      "id": "doc_1768217579883"
+    },
+    "doc_1768217579958": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:32:59.958573",
+      "id": "doc_1768217579958"
+    },
+    "doc_1768217580142": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:33:00.142465"
+    },
+    "doc_1768218001341": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:40:01.341476",
+      "id": "doc_1768218001341"
+    },
+    "doc_1768218001435": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:01.435716",
+      "id": "doc_1768218001435"
+    },
+    "doc_1768218001605": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:01.605676",
+      "id": "doc_1768218001605"
+    },
+    "doc_1768218001690": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:01.690929",
+      "id": "doc_1768218001690"
+    },
+    "doc_1768218001881": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:01.881177"
+    },
+    "doc_1768218019192": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:40:19.191932",
+      "id": "doc_1768218019192"
+    },
+    "doc_1768218019268": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:19.268184",
+      "id": "doc_1768218019268"
+    },
+    "doc_1768218019441": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:19.441861",
+      "id": "doc_1768218019441"
+    },
+    "doc_1768218019524": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:19.524855",
+      "id": "doc_1768218019524"
+    },
+    "doc_1768218019692": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:19.692048"
+    },
+    "doc_1768218041423": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:40:41.423721",
+      "id": "doc_1768218041423"
+    },
+    "doc_1768218041499": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:41.499738",
+      "id": "doc_1768218041499"
+    },
+    "doc_1768218041675": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:41.675230",
+      "id": "doc_1768218041675"
+    },
+    "doc_1768218041750": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:41.750645",
+      "id": "doc_1768218041750"
+    },
+    "doc_1768218041942": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:40:41.942360"
+    },
+    "doc_1768218147871": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:42:27.871463",
+      "id": "doc_1768218147871"
+    },
+    "doc_1768218148031": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:42:28.031519",
+      "id": "doc_1768218148031"
+    },
+    "doc_1768218148391": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:42:28.391435",
+      "id": "doc_1768218148391"
+    },
+    "doc_1768218148545": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:42:28.545821",
+      "id": "doc_1768218148545"
+    },
+    "doc_1768218148892": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:42:28.892650"
+    },
+    "doc_1768218865881": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:54:25.881861",
+      "id": "doc_1768218865881"
+    },
+    "doc_1768218865976": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:54:25.976003",
+      "id": "doc_1768218865976"
+    },
+    "doc_1768218866149": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:54:26.149049",
+      "id": "doc_1768218866149"
+    },
+    "doc_1768218866249": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:54:26.249788",
+      "id": "doc_1768218866249"
+    },
+    "doc_1768218866422": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:54:26.422289"
+    },
+    "doc_1768218991496": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T11:56:31.496055",
+      "id": "doc_1768218991496"
+    },
+    "doc_1768218991585": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:56:31.585830",
+      "id": "doc_1768218991585"
+    },
+    "doc_1768218991745": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:56:31.745893",
+      "id": "doc_1768218991745"
+    },
+    "doc_1768218991846": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:56:31.846938",
+      "id": "doc_1768218991846"
+    },
+    "doc_1768218992033": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T11:56:32.033819"
+    },
+    "doc_1768222060978": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Hamburg Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 8.77,
+      "effective_delay": 6.77,
+      "impact_cost": 17532.62,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T12:47:40.978987",
+      "id": "doc_1768222060978"
+    },
+    "doc_1768222062279": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "New Trade Tariffs Announced Government announces new tariffs on semiconductor imports effective imme...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T12:47:42.279346",
+      "id": "doc_1768222062279"
+    },
+    "doc_1768222064907": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Logistics Disruption in region Unexpected disruption in key logistics corridor due to weather event.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T12:47:44.907616"
+    },
+    "doc_1768224270023": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T13:24:30.023025",
+      "id": "doc_1768224270023"
+    },
+    "doc_1768224270105": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:24:30.105425",
+      "id": "doc_1768224270105"
+    },
+    "doc_1768224270372": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:24:30.372418",
+      "id": "doc_1768224270372"
+    },
+    "doc_1768224270464": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:24:30.464136",
+      "id": "doc_1768224270464"
+    },
+    "doc_1768224270616": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:24:30.616479"
+    },
+    "doc_1768226304392": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T13:58:24.392279",
+      "id": "doc_1768226304392"
+    },
+    "doc_1768226304494": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:24.492736",
+      "id": "doc_1768226304494"
+    },
+    "doc_1768226304654": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:24.654763",
+      "id": "doc_1768226304654"
+    },
+    "doc_1768226304750": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:24.750182",
+      "id": "doc_1768226304750"
+    },
+    "doc_1768226304920": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:24.920580"
+    },
+    "doc_1768226320067": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T13:58:40.067300",
+      "id": "doc_1768226320067"
+    },
+    "doc_1768226320157": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:40.157039",
+      "id": "doc_1768226320157"
+    },
+    "doc_1768226320328": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:40.328430",
+      "id": "doc_1768226320328"
+    },
+    "doc_1768226320437": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:40.437286",
+      "id": "doc_1768226320437"
+    },
+    "doc_1768226320583": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T13:58:40.583248"
+    },
+    "doc_1768226918161": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:08:38.161622",
+      "id": "doc_1768226918161"
+    },
+    "doc_1768226918252": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:38.252070",
+      "id": "doc_1768226918252"
+    },
+    "doc_1768226918420": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:38.420829",
+      "id": "doc_1768226918420"
+    },
+    "doc_1768226918519": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:38.519691",
+      "id": "doc_1768226918519"
+    },
+    "doc_1768226918681": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:38.681058"
+    },
+    "doc_1768226937853": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:08:57.853973",
+      "id": "doc_1768226937853"
+    },
+    "doc_1768226937936": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:57.936410",
+      "id": "doc_1768226937936"
+    },
+    "doc_1768226938216": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:58.216262",
+      "id": "doc_1768226938216"
+    },
+    "doc_1768226938316": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer ties won't be easy German Chancellor Friedrich Merz is heading...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:58.316511",
+      "id": "doc_1768226938316"
+    },
+    "doc_1768226938522": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Why Germany, India face obstacles to closer strategic ties In the face of US tariffs, Russian threat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:08:58.522691",
+      "id": "doc_1768226938522"
+    },
+    "doc_1768227543065": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:19:03.065882"
+    },
+    "doc_1768227843876": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Earthquake in Tokyo",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:24:03.876186"
+    },
+    "doc_1768227873386": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Earthquake",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:24:33.386478"
+    },
+    "doc_1768227960708": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Earthquake",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:26:00.708113"
+    },
+    "doc_1768228036796": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:27:16.796064",
+      "id": "doc_1768228036796"
+    },
+    "doc_1768228036898": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:27:16.898209",
+      "id": "doc_1768228036898"
+    },
+    "doc_1768228037084": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:27:17.084532",
+      "id": "doc_1768228037084"
+    },
+    "doc_1768228037181": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:27:17.181062",
+      "id": "doc_1768228037181"
+    },
+    "doc_1768228037367": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:27:17.367730"
+    },
+    "doc_1768228055435": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Earthquake",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:27:35.435268"
+    },
+    "doc_1768228116807": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Earthquak in India",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:28:36.807648"
+    },
+    "doc_1768228597069": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:36:37.069431",
+      "id": "doc_1768228597069"
+    },
+    "doc_1768228597152": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:36:37.152852",
+      "id": "doc_1768228597152"
+    },
+    "doc_1768228597355": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:36:37.355436",
+      "id": "doc_1768228597355"
+    },
+    "doc_1768228597499": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:36:37.499144",
+      "id": "doc_1768228597499"
+    },
+    "doc_1768228597655": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:36:37.655137"
+    },
+    "doc_1768228765579": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:25.579363",
+      "id": "doc_1768228765579"
+    },
+    "doc_1768228765673": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:25.673648",
+      "id": "doc_1768228765673"
+    },
+    "doc_1768228765858": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:25.858366",
+      "id": "doc_1768228765858"
+    },
+    "doc_1768228765959": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:25.959120",
+      "id": "doc_1768228765959"
+    },
+    "doc_1768228766167": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:26.167841"
+    },
+    "doc_1768228772156": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:32.156792",
+      "id": "doc_1768228772156"
+    },
+    "doc_1768228772270": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:32.270862",
+      "id": "doc_1768228772270"
+    },
+    "doc_1768228772518": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:32.518412",
+      "id": "doc_1768228772518"
+    },
+    "doc_1768228772612": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:32.612519",
+      "id": "doc_1768228772612"
+    },
+    "doc_1768228772787": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:32.787956"
+    },
+    "doc_1768228775878": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:35.878617",
+      "id": "doc_1768228775878"
+    },
+    "doc_1768228775971": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:35.971031",
+      "id": "doc_1768228775971"
+    },
+    "doc_1768228776202": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:39:36.202289",
+      "id": "doc_1768228776202"
+    },
+    "doc_1768228776287": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:36.287736",
+      "id": "doc_1768228776287"
+    },
+    "doc_1768228776509": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:39:36.509803"
+    },
+    "doc_1768229467080": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:51:07.080775",
+      "id": "doc_1768229467080"
+    },
+    "doc_1768229467365": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:51:07.365289",
+      "id": "doc_1768229467365"
+    },
+    "doc_1768229467624": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:51:07.622419",
+      "id": "doc_1768229467624"
+    },
+    "doc_1768229467990": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:51:07.990221",
+      "id": "doc_1768229467990"
+    },
+    "doc_1768229468235": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:51:08.234728"
+    },
+    "doc_1768229522287": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:02.287331",
+      "id": "doc_1768229522287"
+    },
+    "doc_1768229522401": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:52:02.401478",
+      "id": "doc_1768229522401"
+    },
+    "doc_1768229522561": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:52:02.561477",
+      "id": "doc_1768229522561"
+    },
+    "doc_1768229522687": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:02.687009",
+      "id": "doc_1768229522687"
+    },
+    "doc_1768229522895": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:02.895958"
+    },
+    "doc_1768229546592": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:26.592394",
+      "id": "doc_1768229546592"
+    },
+    "doc_1768229546694": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:52:26.694699",
+      "id": "doc_1768229546694"
+    },
+    "doc_1768229546864": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T14:52:26.864700",
+      "id": "doc_1768229546864"
+    },
+    "doc_1768229546966": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:26.966506",
+      "id": "doc_1768229546966"
+    },
+    "doc_1768229547175": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T14:52:27.175358"
+    },
+    "doc_1768230746776": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:12:26.776041",
+      "id": "doc_1768230746776"
+    },
+    "doc_1768230746876": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:12:26.876783",
+      "id": "doc_1768230746876"
+    },
+    "doc_1768230747045": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:12:27.045745",
+      "id": "doc_1768230747045"
+    },
+    "doc_1768230747161": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:12:27.161441"
+    },
+    "doc_1768230751330": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:12:31.330570",
+      "id": "doc_1768230751330"
+    },
+    "doc_1768230751428": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:12:31.428717",
+      "id": "doc_1768230751428"
+    },
+    "doc_1768230751644": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:12:31.644280",
+      "id": "doc_1768230751644"
+    },
+    "doc_1768230751780": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:12:31.780177",
+      "id": "doc_1768230751780"
+    },
+    "doc_1768230751964": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:12:31.964071"
+    },
+    "doc_1768231084362": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:18:04.362249",
+      "id": "doc_1768231084362"
+    },
+    "doc_1768231084458": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:18:04.458777",
+      "id": "doc_1768231084458"
+    },
+    "doc_1768231084652": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:18:04.652796",
+      "id": "doc_1768231084652"
+    },
+    "doc_1768231084754": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:18:04.753046",
+      "id": "doc_1768231084754"
+    },
+    "doc_1768231084941": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:18:04.939262"
+    },
+    "doc_1768231249459": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:20:49.459542",
+      "id": "doc_1768231249459"
+    },
+    "doc_1768231249573": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:20:49.573623",
+      "id": "doc_1768231249573"
+    },
+    "doc_1768231249714": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:20:49.714640",
+      "id": "doc_1768231249714"
+    },
+    "doc_1768231249856": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:20:49.856518",
+      "id": "doc_1768231249856"
+    },
+    "doc_1768231250011": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "For Germany and India, forging closer relations is not easy German Chancellor Friedrich Merz is head...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:20:50.011358"
+    },
+    "doc_1768231728725": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:28:48.725814",
+      "id": "doc_1768231728725"
+    },
+    "doc_1768231728854": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:28:48.854679",
+      "id": "doc_1768231728854"
+    },
+    "doc_1768231729014": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:28:49.014641",
+      "id": "doc_1768231729014"
+    },
+    "doc_1768231729123": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:28:49.123843",
+      "id": "doc_1768231729123"
+    },
+    "doc_1768231729309": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:28:49.309264"
+    },
+    "doc_1768231881957": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:31:21.957678",
+      "id": "doc_1768231881957"
+    },
+    "doc_1768231882146": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:31:22.146215",
+      "id": "doc_1768231882146"
+    },
+    "doc_1768231882360": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:31:22.360989",
+      "id": "doc_1768231882360"
+    },
+    "doc_1768231882569": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:31:22.569219",
+      "id": "doc_1768231882569"
+    },
+    "doc_1768231882770": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:31:22.770586"
+    },
+    "doc_1768231987997": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:07.997282",
+      "id": "doc_1768231987997"
+    },
+    "doc_1768231988367": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:33:08.367632",
+      "id": "doc_1768231988367"
+    },
+    "doc_1768231988496": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:08.496195",
+      "id": "doc_1768231988496"
+    },
+    "doc_1768231988646": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:08.646074",
+      "id": "doc_1768231988646"
+    },
+    "doc_1768231988772": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:33:08.772306"
+    },
+    "doc_1768232023189": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:43.189625",
+      "id": "doc_1768232023189"
+    },
+    "doc_1768232023280": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:33:43.280441",
+      "id": "doc_1768232023280"
+    },
+    "doc_1768232023444": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:43.444802",
+      "id": "doc_1768232023444"
+    },
+    "doc_1768232023556": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:33:43.556059",
+      "id": "doc_1768232023556"
+    },
+    "doc_1768232023705": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:33:43.705614"
+    },
+    "doc_1768232373497": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:39:33.497896",
+      "id": "doc_1768232373497"
+    },
+    "doc_1768232373590": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:39:33.590842",
+      "id": "doc_1768232373590"
+    },
+    "doc_1768232373778": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:39:33.778756",
+      "id": "doc_1768232373778"
+    },
+    "doc_1768232373869": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:39:33.869233",
+      "id": "doc_1768232373869"
+    },
+    "doc_1768232374033": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:39:34.033569"
+    },
+    "doc_1768232477966": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:41:17.966958",
+      "id": "doc_1768232477966"
+    },
+    "doc_1768232478090": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:41:18.090977",
+      "id": "doc_1768232478090"
+    },
+    "doc_1768232478293": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:41:18.293043",
+      "id": "doc_1768232478293"
+    },
+    "doc_1768232478399": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:41:18.399311",
+      "id": "doc_1768232478399"
+    },
+    "doc_1768232478559": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:41:18.559667"
+    },
+    "doc_1768233111477": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:51:51.477319",
+      "id": "doc_1768233111477"
+    },
+    "doc_1768233112007": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:51:52.007999",
+      "id": "doc_1768233112007"
+    },
+    "doc_1768233112692": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:51:52.692957",
+      "id": "doc_1768233112692"
+    },
+    "doc_1768233113530": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:51:53.530189",
+      "id": "doc_1768233113530"
+    },
+    "doc_1768233114068": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:51:54.068509"
+    },
+    "doc_1768233144042": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump says no more Venezuelan oil or money to go to Cuba, pushes for deal Jan 11 (Reuters) - U.S. \u200cP...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:52:24.042808",
+      "id": "doc_1768233144042"
+    },
+    "doc_1768233144549": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Op-ed: Trump's 'Donroe Doctrine' and China are headed for Latin American clash Concerns that Preside...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:52:24.549822",
+      "id": "doc_1768233144549"
+    },
+    "doc_1768233144680": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Trump threatens to cut oil supply to Cuba; suggests US deal \u2018before it\u2019s too late\u2019 Trump warns Cuba ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:52:24.680350",
+      "id": "doc_1768233144680"
+    },
+    "doc_1768233144906": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UK co-owns UAE-controlled Somaliland port used against Sudan The UK government reportedly co-owns a ...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-12T15:52:24.906114",
+      "id": "doc_1768233144906"
+    },
+    "doc_1768233145045": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Nvidia boss underscores China\u2013US mutual dependence Beijing and Washington continue to accuse one ano...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-01-12T15:52:25.045082"
+    },
+    "doc_1768269931685": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Stock Market Highlights 12 Jan 2026: Sensex settled 301.93 pts or 0.36% higher at 83,878.17 after hi...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T02:05:31.685447",
+      "id": "doc_1768269931685"
+    },
+    "doc_1768269931834": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Beyond Venezuela: How Donald Trump\u2019s oil power play could reshape inflation, interest rates and emer...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T02:05:31.834631",
+      "id": "doc_1768269931834"
+    },
+    "doc_1768269931984": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Cuba defiant after Trump says island to receive no more Venezuelan oil or money United States Presid...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T02:05:31.984374",
+      "id": "doc_1768269931984"
+    },
+    "doc_1768269932142": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Iran edges closer to a revolution that would reshape the world \u201cThis is the biggest moment in Iran s...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T02:05:32.142024",
+      "id": "doc_1768269932142"
+    },
+    "doc_1768269932376": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Cuba defiant after Trump says island to receive no more Venezuelan oil or money U.S. President Donal...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T02:05:32.376097",
+      "id": "doc_1768269932376"
+    },
+    "doc_1768273492155": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Singapore Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T03:04:52.155483",
+      "id": "doc_1768273492155"
+    },
+    "doc_1768274157012": {
+      "event_type": "Sanction",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "New Trade Tariffs Announced Government announces new tariffs on semiconductor imports effective imme...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T03:15:57.012866",
+      "id": "doc_1768274157012"
+    },
+    "doc_1768274751127": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Logistics Disruption in region Unexpected disruption in key logistics corridor due to weather event.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T03:25:51.127787",
+      "id": "doc_1768274751127"
+    },
+    "doc_1768276519414": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "UPSC Current Affairs Pointers of the past week | January 5 to January 11, 2026 Did you miss out on i...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 16.67,
+      "effective_delay": 14.67,
+      "impact_cost": 31833.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T03:55:19.414221"
+    },
+    "doc_1768277114042": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Shanghai Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T04:05:14.042379",
+      "id": "doc_1768277114042"
+    },
+    "doc_1768277115038": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Los Angeles Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T04:05:15.038035",
+      "id": "doc_1768277115038"
+    },
+    "doc_1768277117065": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Rotterdam Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T04:05:17.065632",
+      "id": "doc_1768277117065"
+    },
+    "doc_1768277117155": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Antwerp Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T04:05:17.155118"
+    },
+    "doc_1768278872905": {
+      "event_type": "Strike",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 8,
+      "summary": "Port Congestion in Hamburg Severe congestion reported due to labor shortages and high volume.",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 26.67,
+      "effective_delay": 24.67,
+      "impact_cost": 53333.33,
+      "impacted_nodes": [],
+      "timestamp": "2026-01-13T04:34:32.905922"
+    }
+  }
+}
