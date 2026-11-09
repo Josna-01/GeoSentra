@@ -7,7 +7,7 @@ import datetime
 
 # Path to service account JSON
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-CERT_PATH = os.path.join(BASE_DIR, "geosentra-5eae8-firebase-adminsdk-fbsvc-2765aca024.json")
+CERT_PATH = os.path.join(BASE_DIR, "firebase_credentials.json")
 
 class LocalDB:
     """A simplistic JSON-based Mock Firestore for local development."""
@@ -97,16 +97,28 @@ class DocumentSnapshot:
         return self._data
 
 # Initialize DB with Fallback
-# NOTE: Forcing LocalDB because the cloud project doesn't have a Firestore DB provisioned yet (404 error)
 try:
-    # if os.path.exists(CERT_PATH):
-    #     cred = credentials.Certificate(CERT_PATH)
-    #     firebase_admin.initialize_app(cred)
-    #     db = firestore.client()
-    #     print("✅ Firestore connected successfully.")
-    # else:
-    #     raise Exception("Certificate file not found")
-    raise Exception("Forcing LocalDB")
+    if os.path.exists(CERT_PATH):
+        cred = credentials.Certificate(CERT_PATH)
+        firebase_admin.initialize_app(cred)
+        db = firestore.client()
+        # Verify connectivity
+        list(db.collection('health_check').limit(1).stream())
+        print("✅ Firestore connected successfully.")
+    elif settings.FIREBASE_PRIVATE_KEY and settings.FIREBASE_CLIENT_EMAIL:
+        cred = credentials.Certificate({
+            "type": "service_account",
+            "project_id": settings.FIREBASE_PROJECT_ID,
+            "private_key": settings.FIREBASE_PRIVATE_KEY.replace('\\n', '\n'),
+            "client_email": settings.FIREBASE_CLIENT_EMAIL,
+            "token_uri": "https://oauth2.googleapis.com/token",
+        })
+        firebase_admin.initialize_app(cred)
+        db = firestore.client()
+        list(db.collection('health_check').limit(1).stream())
+        print("✅ Firestore connected successfully.")
+    else:
+        raise Exception("Certificate file not found")
 except Exception as e:
     print(f"⚠️  Switched to LocalDB (JSON mode) due to: {e}")
     db = LocalDB()

@@ -5851,6 +5851,486 @@
       "impact_cost": 22668.66,
       "impacted_nodes": [],
       "timestamp": "2026-11-09T06:29:17.060191"
+    },
+    "doc_1794207407839": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Bitcoin Tumbles as Binance Reports $6.3 Billion Hack; Withdrawals Temporarily Frozen Bitcoin fell on...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:47.839060",
+      "id": "doc_1794207407839"
+    },
+    "doc_1794207408207": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The Limits of China\u2019s Self-Sufficiency Joel Wuthnow argues that the PRC\u2019s food insecurity could cons...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-11-09T06:56:48.207355",
+      "id": "doc_1794207408207"
+    },
+    "doc_1794207408585": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:48.585299",
+      "id": "doc_1794207408585"
+    },
+    "doc_1794207408931": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "coordinates": [
+          50.4501,
+          30.5234
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Zelenskyy says Russia is stepping up attacks ahead of U.S. talks Negotiators from Russia, Ukraine an...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Ukraine"
+      ],
+      "timestamp": "2026-11-09T06:56:48.931317",
+      "id": "doc_1794207408931"
+    },
+    "doc_1794207409325": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "BRICS Rising: Reimagining Global Geopolitics and the Emerging Multipolar World Order The most dramat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:49.325867"
+    },
+    "doc_1794207415248": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Bitcoin Tumbles as Binance Reports $6.3 Billion Hack; Withdrawals Temporarily Frozen Bitcoin fell on...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:55.248746",
+      "id": "doc_1794207415248"
+    },
+    "doc_1794207415733": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The Limits of China\u2019s Self-Sufficiency Joel Wuthnow argues that the PRC\u2019s food insecurity could cons...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-11-09T06:56:55.733015",
+      "id": "doc_1794207415733"
+    },
+    "doc_1794207416097": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:56.097309",
+      "id": "doc_1794207416097"
+    },
+    "doc_1794207416634": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "coordinates": [
+          50.4501,
+          30.5234
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Zelenskyy says Russia is stepping up attacks ahead of U.S. talks Negotiators from Russia, Ukraine an...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Ukraine"
+      ],
+      "timestamp": "2026-11-09T06:56:56.634310",
+      "id": "doc_1794207416634"
+    },
+    "doc_1794207416992": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "BRICS Rising: Reimagining Global Geopolitics and the Emerging Multipolar World Order The most dramat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T06:56:56.992211"
+    },
+    "doc_1794207626395": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Bitcoin Tumbles as Binance Reports $6.3 Billion Hack; Withdrawals Temporarily Frozen Bitcoin fell on...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:00:26.395344",
+      "id": "doc_1794207626395"
+    },
+    "doc_1794207626756": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The Limits of China\u2019s Self-Sufficiency Joel Wuthnow argues that the PRC\u2019s food insecurity could cons...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-11-09T07:00:26.756118",
+      "id": "doc_1794207626756"
+    },
+    "doc_1794207627366": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:00:27.366372",
+      "id": "doc_1794207627366"
+    },
+    "doc_1794207627694": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "coordinates": [
+          50.4501,
+          30.5234
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Zelenskyy says Russia is stepping up attacks ahead of U.S. talks Negotiators from Russia, Ukraine an...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Ukraine"
+      ],
+      "timestamp": "2026-11-09T07:00:27.694642",
+      "id": "doc_1794207627694"
+    },
+    "doc_1794207628031": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "BRICS Rising: Reimagining Global Geopolitics and the Emerging Multipolar World Order The most dramat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:00:28.031347"
+    },
+    "doc_1794207792295": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Bitcoin Tumbles as Binance Reports $6.3 Billion Hack; Withdrawals Temporarily Frozen Bitcoin fell on...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:03:12.295583",
+      "id": "doc_1794207792295"
+    },
+    "doc_1794207792636": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Shanghai",
+        "country": "China",
+        "coordinates": [
+          31.2304,
+          121.4737
+        ]
+      },
+      "severity_score": 5,
+      "summary": "The Limits of China\u2019s Self-Sufficiency Joel Wuthnow argues that the PRC\u2019s food insecurity could cons...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Hong Kong SAR, China",
+        "Taiwan, China",
+        "China"
+      ],
+      "timestamp": "2026-11-09T07:03:12.636159",
+      "id": "doc_1794207792636"
+    },
+    "doc_1794207792989": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "MARK ALMOND: Humiliated Trump must now keep his nerve - and pound Tehran's blood-soaked mullahs into...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:03:12.989092",
+      "id": "doc_1794207792989"
+    },
+    "doc_1794207793337": {
+      "event_type": "Conflict",
+      "location": {
+        "city": "Kyiv",
+        "country": "Ukraine",
+        "coordinates": [
+          50.4501,
+          30.5234
+        ]
+      },
+      "severity_score": 5,
+      "summary": "Zelenskyy says Russia is stepping up attacks ahead of U.S. talks Negotiators from Russia, Ukraine an...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [
+        "Ukraine"
+      ],
+      "timestamp": "2026-11-09T07:03:13.337312",
+      "id": "doc_1794207793337"
+    },
+    "doc_1794207793691": {
+      "event_type": "Disaster",
+      "location": {
+        "city": "Unknown",
+        "country": "Unknown",
+        "coordinates": [
+          0,
+          0
+        ]
+      },
+      "severity_score": 5,
+      "summary": "BRICS Rising: Reimagining Global Geopolitics and the Emerging Multipolar World Order The most dramat...",
+      "affected_sectors": [
+        "Logistics",
+        "Supply Chain"
+      ],
+      "predicted_days": 12.08,
+      "effective_delay": 10.08,
+      "impact_cost": 22668.66,
+      "impacted_nodes": [],
+      "timestamp": "2026-11-09T07:03:13.691782"
     }
   }
 }
