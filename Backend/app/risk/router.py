@@ -4,7 +4,8 @@ from app.ml.graph_analysis import sc_graph
 from app.ml.forecasting import forecaster
 from app.db import db
 from datetime import datetime
-from app.services.news import news_service
+from app.services.news import NewsFeedUnavailable, news_service
+from app.services.usgs import usgs_feed
 import asyncio
 import hashlib
 
@@ -12,30 +13,37 @@ import hashlib
 PROCESSED_HASHES = set()
 
 router = APIRouter(prefix="/risk", tags=["Risk"])
+usgs_poll_task = None
 
 async def background_ingest():
     """Background task to fetch news every 10 minutes"""
     while True:
         print("Running background news ingestion...")
         try:
-            articles = news_service.fetch_geopolitical_news()
-            for article in articles:
-                text = f"{article.get('title')} {article.get('description')}"
-                
-                # Deduplication Check
-                text_hash = hashlib.md5(text.encode()).hexdigest()
-                if text_hash in PROCESSED_HASHES:
-                    continue
-                
-                PROCESSED_HASHES.add(text_hash)
-                simulate_crisis(text)
+            await asyncio.to_thread(process_news)
+        except NewsFeedUnavailable as e:
+            print(f"Background news feed unavailable: {e}")
         except Exception as e:
             print(f"Background ingest error: {e}")
         await asyncio.sleep(600) # 10 minutes
 
 @router.on_event("startup")
 async def startup_event():
+    global usgs_poll_task
     asyncio.create_task(background_ingest())
+    usgs_poll_task = asyncio.create_task(usgs_feed.poll())
+
+
+@router.on_event("shutdown")
+async def shutdown_usgs():
+    if usgs_poll_task is not None:
+        usgs_poll_task.cancel()
+        await asyncio.gather(usgs_poll_task, return_exceptions=True)
+
+
+@router.get("/feeds/usgs")
+def get_usgs_status():
+    return usgs_feed.status()
 
 @router.get("/graph")
 def get_graph():
@@ -49,16 +57,15 @@ def get_alternatives(source: str, target: str, avoid: str = ""):
 
 @router.get("/alerts")
 def get_alerts():
-    # Fetch alerts from Firestore
+    alerts = []
     try:
         alerts_ref = db.collection("alerts").order_by("timestamp", direction="DESCENDING").limit(20)
-        alerts = []
         for doc in alerts_ref.stream():
             alerts.append({"id": doc.id, **doc.to_dict()})
-        return alerts
     except Exception as e:
         print(f"Error fetching alerts: {e}")
-        return []
+    alerts.extend(usgs_feed.latest_alerts())
+    return sorted(alerts, key=lambda alert: alert.get("timestamp") or "", reverse=True)[:20]
 
 @router.post("/simulate")
 @router.get("/simulate")
@@ -161,8 +168,7 @@ def generate_rfq(event_id: str):
     except Exception as e:
         raise HTTPException(status_code=500, detail=str(e))
 
-@router.post("/ingest-news")
-def ingest_news(force: bool = False):
+def process_news(force: bool = False):
     print(f"Ingesting news... Force={force}")
     articles = news_service.fetch_geopolitical_news()
     print(f"Fetched {len(articles)} articles.")
@@ -189,3 +195,11 @@ def ingest_news(force: bool = False):
             
     print(f"Ingestion complete. Processed {len(new_alerts)} alerts.")
     return {"processed": len(new_alerts), "alerts": new_alerts}
+
+
+@router.post("/ingest-news")
+def ingest_news(force: bool = False):
+    try:
+        return process_news(force)
+    except NewsFeedUnavailable as exc:
+        raise HTTPException(status_code=503, detail=str(exc)) from exc

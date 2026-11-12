@@ -34,10 +34,11 @@ const Events = () => {
   // Transform events for display
   const displayedEvents = events.map(e => ({
     id: String(e.id),
-    title: e.event_type,
+    title: e.source === "USGS" ? `USGS earthquake · M${e.magnitude}` : e.event_type,
+    sourceUrl: e.source_url,
     description: e.summary,
-    location: `${e.location.city}, ${e.location.country}`,
-    severity: e.severity_score > 7 ? "critical" : e.severity_score > 4 ? "high" : "low",
+    location: [e.location.city, e.location.country].filter(Boolean).join(", "),
+    severity: e.source === "USGS" ? "unassessed" : (e.severity_score ?? 0) > 7 ? "critical" : (e.severity_score ?? 0) > 4 ? "high" : "low",
     timestamp: new Date(e.timestamp).toLocaleTimeString(),
     affectedSuppliers: (e as any).impacted_nodes?.length || 0
   }));
@@ -94,8 +95,11 @@ const Events = () => {
                       </span>
                       <span className="flex items-center gap-1">
                         <AlertTriangle className="w-3 h-3" />
-                        {event.affectedSuppliers} supplier{event.affectedSuppliers > 1 ? "s" : ""}
+                        {event.sourceUrl ? "Supplier exposure unassessed" : `${event.affectedSuppliers} supplier${event.affectedSuppliers !== 1 ? "s" : ""}`}
                       </span>
+                      {event.sourceUrl && (
+                        <a className="text-cyan-300 hover:underline" href={event.sourceUrl} target="_blank" rel="noreferrer">USGS report</a>
+                      )}
                     </div>
                   </div>
 

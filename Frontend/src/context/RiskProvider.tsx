@@ -7,7 +7,11 @@ export interface RiskEvent {
     id: string | number;
     event_type: "Strike" | "Conflict" | "Sanction" | "Disaster";
     summary: string;
-    severity_score: number;
+    severity_score?: number;
+    source?: "USGS";
+    source_url?: string;
+    magnitude?: number;
+    impact_cost?: number;
     location: {
         city: string;
         country: string;
@@ -17,10 +21,16 @@ export interface RiskEvent {
     timestamp: string;
 }
 
+interface UsgsStatus {
+    status: "starting" | "current" | "stale" | "unavailable";
+    last_success_at: string | null;
+}
+
 interface RiskContextType {
     suppliers: Supplier[];
     setSuppliers: (suppliers: Supplier[]) => void;
     events: RiskEvent[];
+    usgsStatus: UsgsStatus | null;
     isLoading: boolean;
     simulateCrisis: (text: string) => Promise<void>;
     fetchData: () => Promise<void>;
@@ -33,6 +43,7 @@ const API_BASE = "http://localhost:8000/risk";
 export const RiskProvider = ({ children }: { children: ReactNode }) => {
     const [suppliers, setSuppliers] = useState<Supplier[]>([]);
     const [events, setEvents] = useState<RiskEvent[]>([]);
+    const [usgsStatus, setUsgsStatus] = useState<UsgsStatus | null>(null);
     const [isLoading, setIsLoading] = useState(true);
 
     const fetchData = async () => {
@@ -97,31 +108,30 @@ export const RiskProvider = ({ children }: { children: ReactNode }) => {
         // Poll for updates every 10 seconds
         const pollInterval = setInterval(fetchData, 10000);
 
-        // Auto-ingest news every 5 minutes
-        const ingestNews = async () => {
+        const fetchUsgsStatus = async () => {
             try {
-                await fetch(`${API_BASE}/ingest-news`, { method: "POST" });
-                console.log("Auto-ingested news");
-            } catch (error) {
-                console.error("Auto-ingestion failed:", error);
+                const response = await fetch(`${API_BASE}/feeds/usgs`);
+                if (!response.ok) throw new Error("USGS status unavailable");
+                setUsgsStatus(await response.json());
+            } catch {
+                setUsgsStatus(previous => ({
+                    status: "unavailable",
+                    last_success_at: previous?.last_success_at ?? null,
+                }));
             }
         };
 
-        // Initial ingestion after 5 seconds
-        const initialIngest = setTimeout(ingestNews, 5000);
-
-        // Then every 5 minutes
-        const ingestInterval = setInterval(ingestNews, 5 * 60 * 1000);
+        fetchUsgsStatus();
+        const statusInterval = setInterval(fetchUsgsStatus, 10000);
 
         return () => {
             clearInterval(pollInterval);
-            clearInterval(ingestInterval);
-            clearTimeout(initialIngest);
+            clearInterval(statusInterval);
         };
     }, []);
 
     return (
-        <RiskContext.Provider value={{ suppliers, setSuppliers, events, isLoading, simulateCrisis, fetchData }}>
+        <RiskContext.Provider value={{ suppliers, setSuppliers, events, usgsStatus, isLoading, simulateCrisis, fetchData }}>
             {children}
         </RiskContext.Provider>
     );

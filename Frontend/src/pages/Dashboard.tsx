@@ -13,10 +13,11 @@ import { useRiskData, RiskEvent } from "@/context/RiskProvider";
 import { toast } from "sonner";
 
 const Dashboard = () => {
-  const { suppliers: contextSuppliers, events, simulateCrisis, fetchData } = useRiskData();
+  const { suppliers: contextSuppliers, events, usgsStatus, simulateCrisis, fetchData } = useRiskData();
   const [selectedSupplier, setSelectedSupplier] = useState<Supplier | null>(null);
   const [searchQuery, setSearchQuery] = useState("");
   const [isSyncing, setIsSyncing] = useState(false);
+  const estimatedCosts = events.flatMap(event => event.impact_cost === undefined ? [] : [event.impact_cost]);
 
   const suppliers = useMemo(() => {
     if (!searchQuery) return contextSuppliers;
@@ -31,9 +32,18 @@ const Dashboard = () => {
     setIsSyncing(true);
     try {
       const res = await fetch("http://localhost:8000/risk/ingest-news", { method: "POST" });
-      const data = await res.json();
-      toast.success(`Scanning complete. Processed ${data.processed} new events.`);
-      fetchData();
+      if (!res.ok) {
+        const error = await res.json().catch(() => null);
+        toast.error(typeof error?.detail === "string" ? error.detail : "News sync failed. Try again later.");
+        return;
+      }
+      const { processed } = await res.json();
+      if (processed === 0) {
+        toast.info("No new news alerts.");
+      } else {
+        toast.success(`Added ${processed} new news ${processed === 1 ? "alert" : "alerts"}.`);
+        await fetchData();
+      }
     } catch (err) {
       toast.error("Failed to connect to intelligence feed.");
     } finally {
@@ -75,7 +85,7 @@ const Dashboard = () => {
           {/* Center: Key Metrics */}
           <div className="pointer-events-auto flex gap-3">
             <div className="px-5 py-3 bg-slate-900/90 backdrop-blur-md border border-slate-700 rounded-lg shadow-xl">
-              <div className="text-[9px] uppercase text-slate-500 tracking-widest font-semibold mb-1">Active Threats</div>
+              <div className="text-[9px] uppercase text-slate-500 tracking-widest font-semibold mb-1">Recent Events</div>
               <div className={`text-2xl font-bold tracking-tight ${events.length > 0 ? 'text-red-400' : 'text-slate-200'}`}>
                 {events.length}
               </div>
@@ -83,14 +93,19 @@ const Dashboard = () => {
             <div className="px-5 py-3 bg-slate-900/90 backdrop-blur-md border border-slate-700 rounded-lg shadow-xl">
               <div className="text-[9px] uppercase text-slate-500 tracking-widest font-semibold mb-1">Avg Impact Cost</div>
               <div className="text-2xl font-bold tracking-tight text-slate-200">
-                ${events.length > 0
-                  ? (events.reduce((acc, curr: any) => acc + (curr.impact_cost || 0), 0) / events.length / 1000).toFixed(1)
-                  : "0.0"}k
+                {estimatedCosts.length
+                  ? `$${(estimatedCosts.reduce((sum, cost) => sum + cost, 0) / estimatedCosts.length / 1000).toFixed(1)}k`
+                  : "—"}
               </div>
             </div>
             <div className="px-5 py-3 bg-slate-900/90 backdrop-blur-md border border-slate-700 rounded-lg shadow-xl">
-              <div className="text-[9px] uppercase text-slate-500 tracking-widest font-semibold mb-1">System Status</div>
-              <div className="text-2xl font-bold tracking-tight text-emerald-400">ONLINE</div>
+              <div className="text-[9px] uppercase text-slate-500 tracking-widest font-semibold mb-1">USGS Earthquake Feed</div>
+              <div className="text-lg font-bold uppercase">{usgsStatus?.status ?? "checking"}</div>
+              {usgsStatus?.last_success_at && (
+                <div className="text-xs text-slate-400">
+                  Last fetched {new Date(usgsStatus.last_success_at).toLocaleString()}
+                </div>
+              )}
             </div>
           </div>
 
@@ -183,7 +198,7 @@ const Dashboard = () => {
                     className="bg-slate-800/50 border border-slate-700 rounded-lg p-3 relative overflow-hidden group hover:border-slate-600 transition-colors"
                   >
                     {/* Severity Indicator */}
-                    {e.severity_score > 7 && (
+                    {(e.severity_score ?? 0) > 7 && (
                       <div className="absolute top-2 right-2">
                         <span className="relative flex h-2 w-2">
                           <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-red-400 opacity-75"></span>
@@ -193,11 +208,11 @@ const Dashboard = () => {
                     )}
 
                     <div className="flex justify-between items-start mb-2">
-                      <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded border uppercase tracking-wide ${e.severity_score > 7 ? 'bg-red-950/30 border-red-900/50 text-red-400' :
-                        e.severity_score > 4 ? 'bg-amber-950/30 border-amber-900/50 text-amber-400' :
+                      <span className={`text-[9px] font-bold px-1.5 py-0.5 rounded border uppercase tracking-wide ${(e.severity_score ?? 0) > 7 ? 'bg-red-950/30 border-red-900/50 text-red-400' :
+                        (e.severity_score ?? 0) > 4 ? 'bg-amber-950/30 border-amber-900/50 text-amber-400' :
                           'bg-slate-700 border-slate-600 text-slate-400'
                         }`}>
-                        {e.event_type}
+                        {e.source === "USGS" ? `USGS · M${e.magnitude}` : e.event_type}
                       </span>
                       <span className="text-[10px] text-slate-500 font-mono">
                         {new Date(e.timestamp).toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })}
@@ -209,22 +224,26 @@ const Dashboard = () => {
                     <div className="grid grid-cols-2 gap-2 mb-2">
                       <div className="bg-slate-900/50 rounded px-2 py-1.5 border border-slate-800/50">
                         <div className="text-[9px] text-slate-500 uppercase tracking-wider mb-0.5">Location</div>
-                        <div className="text-[10px] text-slate-300 truncate">{e.location.city}, {e.location.country}</div>
+                        <div className="text-[10px] text-slate-300 truncate">{[e.location.city, e.location.country].filter(Boolean).join(", ")}</div>
                       </div>
                       <div className="bg-slate-900/50 rounded px-2 py-1.5 border border-slate-800/50">
                         <div className="text-[9px] text-slate-500 uppercase tracking-wider mb-0.5">Impact</div>
-                        <div className="text-[10px] text-slate-300 font-mono">{e.predicted_days?.toFixed(1) || "?"} Days</div>
+                        <div className="text-[10px] text-slate-300 font-mono">
+                          {e.source === "USGS" ? "Unassessed" : `${e.predicted_days?.toFixed(1) || "?"} Days`}
+                        </div>
                       </div>
                     </div>
 
-                    <Button
+                    {e.source === "USGS" ? (
+                      <a className="text-xs text-cyan-300 hover:underline" href={e.source_url} target="_blank" rel="noreferrer">View USGS report</a>
+                    ) : <Button
                       size="sm"
                       variant="ghost"
                       className="w-full h-7 text-[10px] bg-slate-700 hover:bg-blue-600 hover:text-white text-slate-300 border border-slate-600 hover:border-blue-500 transition-all uppercase tracking-wide font-medium"
                       onClick={() => toast.info(`Drafting RFQ for ${e.event_type}...`)}
                     >
                       <Mail className="w-3 h-3 mr-2" /> Initiate Response
-                    </Button>
+                    </Button>}
                   </motion.div>
                 ))
               )}

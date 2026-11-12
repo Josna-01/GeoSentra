@@ -26,9 +26,9 @@ const RiskEventsTicker = () => {
                     {(events.length > 0 ? [...events, ...events, ...events] : []).map((item, i) => {
                         return (
                             <div key={`${item.id}-${i}`} className="flex items-center gap-3 text-[11px]">
-                                <span className={`font-bold px-1 rounded-[2px] ${item.severity_score > 7 ? 'text-red-400 bg-red-400/10' : 'text-amber-400 bg-amber-400/10'
+                                <span className={`font-bold px-1 rounded-[2px] ${(item.severity_score ?? 0) > 7 ? 'text-red-400 bg-red-400/10' : 'text-amber-400 bg-amber-400/10'
                                     }`}>
-                                    {item.event_type}
+                                    {item.source === "USGS" ? `USGS · M${item.magnitude}` : item.event_type}
                                 </span>
                                 <span className="text-white/70 font-medium tracking-wide">
                                     {item.summary}

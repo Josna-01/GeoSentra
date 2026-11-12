@@ -32,6 +32,7 @@ Thumbs.db
 *.tmp
 *.temp
 .cache/
+/Backend/usgs_events.sqlite3*
 
 # Build artifacts
 dist/
